@@ -1,0 +1,2 @@
+const String kBaseUrl = 'https://api.themoviedb.org/3/';
+const String kAccessToken = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1ZDRjYTAyMjgwZjE3ZTFlMTk3MjVmMWE1ZWI3M2JjOSIsIm5iZiI6MTczMzk1NDYzOC4yMjQsInN1YiI6IjY3NWEwYzRlMGQ0ZjFkYWJjMDIyYmIzYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.z5WoZPz8WDW6zGsOZ9K0CagdEtTA4eclHFbQA-rOI8w';
